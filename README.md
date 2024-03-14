@@ -1,4 +1,4 @@
-Hi 👋 My name is László Kovács
+Hi 👋 My name is László.
 ==============================
 
 Full-Stack Developer and UI/UX Designer
