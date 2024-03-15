@@ -7,7 +7,7 @@ Full-Stack Developer and UI/UX Designer
 I am a passionate software developer with a flair for creating engaging digital experiences. My journey in tech has led me to specialize in Full-Stack Development and UI/UX Design with a particular interest in bot development and dynamic web applications.
 
 * 🌍  I'm based in Hungary
-* ✉️  You can contact me at [rfeinq@gmail.com](mailto:rfeinq@gmail.com)
+* ✉️  You can contact me at [rfeinq@gmail.com](mailto:rfeinq@gmail.com) or on Discord: **ayanea**
 * 🚀  I'm currently working on [Kana (An immersive anime-inspired card collecting bot)](http://kana.gg/)
 * 🧠  I'm learning everything Typescript
 * 🤝  I'm open to collaborating on any discord bots, or web applications
